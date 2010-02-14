@@ -1,0 +1,17 @@
+
+timemask 2008-06-21T10:19:51Z America/Chicago
+  instantaneous 00:30 -- Applies for one half hour.
+    <something>
+  today
+    00:00/10:30
+      <something>
+    11:30/14:30
+      <something>
+  weekly
+    thursdays
+      <something>
+  monthly America/Los_Angeles   -- Why you would do this, I have no idea.
+    2nd thursdays
+      <something>
+
+
